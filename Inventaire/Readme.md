@@ -11,6 +11,6 @@ Ce programme gère un inventaire d'articles. Il permet à l'utilisateur d'entrer
 .Ensuite, l'utilisateur peut rechercher un article en spécifiant son nom, et le programme utilise la fonction Trouve pour afficher les détails de l'article s'il est trouvé.
 
 
-# Le résultat du programme 
+## Le résultat du programme 
 
 ![Résultat Inventaire ](https://github.com/samAK02/Portfolio/assets/131418700/1634c5df-0fe8-4644-ae56-28e821002b0b)
