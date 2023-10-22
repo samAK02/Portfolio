@@ -1,7 +1,7 @@
 # Météo
 
 
-##Dans la partie HTML (fichier HTML) :
+## Dans la partie HTML (fichier HTML) :
 
 . Le programme crée une page web avec une balise <head> qui contient le titre "Météo" et un lien vers une feuille de style externe ("styles.css").
 Dans la balise <body>, et crée une structure pour afficher les données météorologiques.
