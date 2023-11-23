@@ -8,24 +8,24 @@ The program achieves this by using a well-designed questionnaire to gather user 
 This approach minimizes the risk of choosing inappropriate models, helping users make informed decisions efficiently.
 
 
-#**Technical Overview:**
+# **Technical Overview:**
 
 
-##Model Class:
+## Model Class:
 
 -The Model class represents machine learning models.
 -Each model instance contains a name and an initial score set to 0.
 -This class is essential for storing and managing model data.
 
 
-##Question Class:
+## Question Class:
 
 -The Question class plays a key role in guiding users through the model selection process.
 -It constructs questions based on user preferences and assigns models to "yes" or "no" responses.
 -The class encapsulates methods like get_input, get_valid_answer, and ask for streamlined interaction.
 
 
-##Function Usage:
+## Function Usage:
 -get_input Method (Inside Question Class)
 -This method prompts the user for input, converting it to lowercase and stripping whitespace.
 -It fosters reusable and consistent input handling throughout the project.
@@ -63,7 +63,7 @@ ranking Function:
 -It prepares a ranked list of models for users to assess.
 
 
-##Type Hints:
+## Type Hints:
 -The typing module and type hints enhance code clarity.
 -Type annotations like List[Model] and str provide insights into function expectations.
 -These hints bolster code comprehension and prevent type-related errors.
